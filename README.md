@@ -30,3 +30,5 @@ onLeave: function(origin, destination, direction){
 }
 
 ///////////////////////////
+
+Access to the website : https://fullpageresume.netlify.com/
