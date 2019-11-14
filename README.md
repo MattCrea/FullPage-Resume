@@ -17,7 +17,7 @@ FOR CHANGE BRACKGROUND :
     background-position-y: top;
     color: #ffff;
 }
-//////////////////////////
+//Change the route of the picture, add for each section
 
 -> JS : 
 
